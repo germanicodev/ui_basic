@@ -11,3 +11,5 @@ El objetivo es demostrar los parametros basicos que poosee una ventana en Tkinte
 - **btn**: crear botones que van dentro de la barra de herramientas. 
 
 ## Captura
+![Ventana en Tkinter](https://raw.githubusercontent.com/germanicodev/ui_basic/main/assets/screenshot.png)
+
