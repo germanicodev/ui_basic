@@ -1,3 +1,4 @@
+# IMPORTACION DE LAS LIBRERIAS UTILIZADAS
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
